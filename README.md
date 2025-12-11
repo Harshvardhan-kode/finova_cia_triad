@@ -1,6 +1,1 @@
-\# finova\_cia\_triad
-
-This repository contains Bandit writeups and CIA Triad explanation.
-
-
-
+The CIA triad is a simple way to understand what security means. It focuses on keeping information private so that only the authorised person can see it, making sure the information stays accurate and unchanged, and ensuring that the information is available wherever someone needs it. Together, these three ideas help protect data and keep systems trustworthy.
