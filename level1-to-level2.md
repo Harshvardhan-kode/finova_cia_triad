@@ -1,4 +1,4 @@
-PS C:\Users\harsh\Documents\cia_triad> ssh bandit0@bandit.labs.overthewire.org -p 2220
+PS C:\Users\harsh\Documents\cia_triad> ssh bandit1@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
                         | '_ \ / _` | '_ \ / _` | | __|
@@ -10,7 +10,7 @@ PS C:\Users\harsh\Documents\cia_triad> ssh bandit0@bandit.labs.overthewire.org -
             More information on http://www.overthewire.org/wargames
 
 backend: gibson-0
-bandit0@bandit.labs.overthewire.org's password:
+bandit1@bandit.labs.overthewire.org's password:
 
       ,----..            ,----,          .---.
      /   /   \         ,/   .`|         /. ./|
@@ -93,18 +93,8 @@ discord or IRC.
 
   Enjoy your stay!
 
-bandit0@bandit:~$ ls
-readme
-bandit0@bandit:~$ cat readme
-Congratulations on your first steps into the bandit game!!
-Please make sure you have read the rules at https://overthewire.org/rules/
-If you are following a course, workshop, walkthrough or other educational activity,
-please inform the instructor about the rules as well and encourage them to
-contribute to the OverTheWire community so we can keep these games free!
-
-The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
-
-bandit0@bandit:~$ ls
-readme
-bandit0@bandit:~$ cd
-bandit0@bandit:~$ exit
+bandit1@bandit:~$ ls
+-
+bandit1@bandit:~$ cat ./-
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+bandit1@bandit:~$ exit
